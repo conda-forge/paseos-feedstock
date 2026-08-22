@@ -1,7 +1,7 @@
 {% set name = "paseos" %}
 {% set org = "aidotse" %}
-{% set version = "0.2.0" %}
-{% set sha256 = "c378636dd6fb2cc85480192ed8b379a843708050f8b690c201af139603ad4e1e" %}
+{% set version = "0.2.1" %}
+{% set sha256 = "d64fe0d245abe062f06f46b17cd898b2fe6fb0eac464c11ea6d89c275f05339f" %}
 
 package:
   name: {{ name|lower }}
